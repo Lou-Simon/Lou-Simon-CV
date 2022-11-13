@@ -1,0 +1,18 @@
+
+
+
+
+
+<div id="voile">
+        <div class="container">
+            <div class="img">
+                <img src="../images/voile.jpg" alt="">
+            </div>
+            <div class="text">
+                <h1>Voile</h1>
+                <p>Pendant plus de 8 ans, j'ai pratiqué la voile en comptétition sur différents supports. Cela m'a permi de découvrir différents pays d'Europe, tels que l'Italie, la Croatie et l'Espagne.</p>
+                <p>Désormais, je pratique les sports nautiques en loisir, ce qui me permet d'avoir plus de temps à consacrer aux études et autres activités.</p>
+                
+            </div>
+        </div>
+</div>
