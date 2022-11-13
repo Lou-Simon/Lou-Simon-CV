@@ -182,6 +182,10 @@ footer .contact .fa-twitter {
 }
 
 @media screen and (max-width: 800px) {
+    
+    nav .logo a {
+        position: relative;
+    }
 
     nav a.icon {
         display: block;
@@ -193,6 +197,7 @@ footer .contact .fa-twitter {
         justify-content: space-between;
         align-items: center;
         padding: 0;
+        height : 8vh;
     }
 
     .navbar li{
